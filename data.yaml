@@ -1,0 +1,15 @@
+names:
+- bending
+- jumping
+- lying
+- running
+- sitting
+- squatting
+- standing
+- stretching
+- walking
+nc: 9
+
+test: /content/drive/MyDrive/POLARdataset/Data/POLARYOLO/test/images
+train: /content/drive/MyDrive/POLARdataset/Data/POLARYOLO/train/images
+val: /content/drive/MyDrive/POLARdataset/Data/POLARYOLO/val/images
